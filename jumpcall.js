@@ -1,0 +1,1 @@
+var out_buffer = Java.to( main(), "java.lang.String[]");
